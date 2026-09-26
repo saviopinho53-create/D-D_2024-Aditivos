@@ -95,6 +95,12 @@
       "revisado": false,
       "nivel_subclasse": 3,
       "niveis_aumento_atributo": [4, 8, 12, 16, 19]
+    },
+    { 
+      "nome": "Artífice",
+      "revisado": false,
+      "nivel_subclasse": 3,
+      "niveis_aumento_atributo": [4, 8, 12, 16, 19]
     }
   ]
 }
