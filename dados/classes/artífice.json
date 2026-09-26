@@ -1,0 +1,858 @@
+{
+  "nome": "Artífice",
+  "tracos_basicos": {
+    "Atributo Primário": "Inteligência",
+    "Equipamento Inicial": "Escolha A ou B: (A) 2 Armas Simples, Armadura de Couro Batido, Ferramentas de Funileiro, Ferramentas de Ladino, Kit de Explorador e 10 PO; ou (B) 100 PO"
+  },
+  "tabela_caracteristicas": [
+    {
+      "Nível": "1",
+      "Bônus de Proficiência": "+2",
+      "Características": "Conjuração, Magia de Funileiro",
+      "Planos Conhecidos": "—",
+      "Itens Mágicos": "—",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "2",
+      "1": "2",
+      "2": "—",
+      "3": "—",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "2",
+      "Bônus de Proficiência": "+2",
+      "Características": "Replicar Item Mágico",
+      "Planos Conhecidos": "4",
+      "Itens Mágicos": "2",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "3",
+      "1": "2",
+      "2": "—",
+      "3": "—",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "3",
+      "Bônus de Proficiência": "+2",
+      "Características": "Subclasse de Artífice",
+      "Planos Conhecidos": "4",
+      "Itens Mágicos": "2",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "4",
+      "1": "3",
+      "2": "—",
+      "3": "—",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "4",
+      "Bônus de Proficiência": "+2",
+      "Características": "Aumento no Valor de Atributo",
+      "Planos Conhecidos": "4",
+      "Itens Mágicos": "2",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "5",
+      "1": "3",
+      "2": "—",
+      "3": "—",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "5",
+      "Bônus de Proficiência": "+3",
+      "Características": "Característica de Subclasse",
+      "Planos Conhecidos": "4",
+      "Itens Mágicos": "2",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "6",
+      "1": "4",
+      "2": "2",
+      "3": "—",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "6",
+      "Bônus de Proficiência": "+3",
+      "Características": "Remendo Mágico",
+      "Planos Conhecidos": "5",
+      "Itens Mágicos": "3",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "6",
+      "1": "4",
+      "2": "2",
+      "3": "—",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "7",
+      "Bônus de Proficiência": "+3",
+      "Características": "Gênio do Momento",
+      "Planos Conhecidos": "5",
+      "Itens Mágicos": "3",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "7",
+      "1": "4",
+      "2": "3",
+      "3": "—",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "8",
+      "Bônus de Proficiência": "+3",
+      "Características": "Aumento no Valor de Atributo",
+      "Planos Conhecidos": "5",
+      "Itens Mágicos": "3",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "7",
+      "1": "4",
+      "2": "3",
+      "3": "—",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "9",
+      "Bônus de Proficiência": "+4",
+      "Características": "Característica de Subclasse",
+      "Planos Conhecidos": "5",
+      "Itens Mágicos": "3",
+      "Truques (Cantrips)": "2",
+      "Magias Preparadas": "9",
+      "1": "4",
+      "2": "3",
+      "3": "2",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "10",
+      "Bônus de Proficiência": "+4",
+      "Características": "Especialista em Itens Mágicos",
+      "Planos Conhecidos": "6",
+      "Itens Mágicos": "4",
+      "Truques (Cantrips)": "3",
+      "Magias Preparadas": "9",
+      "1": "4",
+      "2": "3",
+      "3": "2",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "11",
+      "Bônus de Proficiência": "+4",
+      "Características": "Armazenar Magia em Item",
+      "Planos Conhecidos": "6",
+      "Itens Mágicos": "4",
+      "Truques (Cantrips)": "3",
+      "Magias Preparadas": "10",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "12",
+      "Bônus de Proficiência": "+4",
+      "Características": "Aumento no Valor de Atributo",
+      "Planos Conhecidos": "6",
+      "Itens Mágicos": "4",
+      "Truques (Cantrips)": "3",
+      "Magias Preparadas": "10",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "—",
+      "5": "—"
+    },
+    {
+      "Nível": "13",
+      "Bônus de Proficiência": "+5",
+      "Características": "—",
+      "Planos Conhecidos": "6",
+      "Itens Mágicos": "4",
+      "Truques (Cantrips)": "3",
+      "Magias Preparadas": "11",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "1",
+      "5": "—"
+    },
+    {
+      "Nível": "14",
+      "Bônus de Proficiência": "+5",
+      "Características": "Artifício Avançado",
+      "Planos Conhecidos": "7",
+      "Itens Mágicos": "5",
+      "Truques (Cantrips)": "4",
+      "Magias Preparadas": "11",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "1",
+      "5": "—"
+    },
+    {
+      "Nível": "15",
+      "Bônus de Proficiência": "+5",
+      "Características": "Característica de Subclasse",
+      "Planos Conhecidos": "7",
+      "Itens Mágicos": "5",
+      "Truques (Cantrips)": "4",
+      "Magias Preparadas": "12",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "2",
+      "5": "—"
+    },
+    {
+      "Nível": "16",
+      "Bônus de Proficiência": "+5",
+      "Características": "Aumento no Valor de Atributo",
+      "Planos Conhecidos": "7",
+      "Itens Mágicos": "5",
+      "Truques (Cantrips)": "4",
+      "Magias Preparadas": "12",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "2",
+      "5": "—"
+    },
+    {
+      "Nível": "17",
+      "Bônus de Proficiência": "+6",
+      "Características": "—",
+      "Planos Conhecidos": "7",
+      "Itens Mágicos": "5",
+      "Truques (Cantrips)": "4",
+      "Magias Preparadas": "14",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "3",
+      "5": "1"
+    },
+    {
+      "Nível": "18",
+      "Bônus de Proficiência": "+6",
+      "Características": "Mestre em Itens Mágicos",
+      "Planos Conhecidos": "8",
+      "Itens Mágicos": "6",
+      "Truques (Cantrips)": "4",
+      "Magias Preparadas": "14",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "3",
+      "5": "1"
+    },
+    {
+      "Nível": "19",
+      "Bônus de Proficiência": "+6",
+      "Características": "Dádiva Épica",
+      "Planos Conhecidos": "8",
+      "Itens Mágicos": "6",
+      "Truques (Cantrips)": "4",
+      "Magias Preparadas": "15",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "3",
+      "5": "2"
+    },
+    {
+      "Nível": "20",
+      "Bônus de Proficiência": "+6",
+      "Características": "Alma do Artifício",
+      "Planos Conhecidos": "8",
+      "Itens Mágicos": "6",
+      "Truques (Cantrips)": "4",
+      "Magias Preparadas": "15",
+      "1": "4",
+      "2": "3",
+      "3": "3",
+      "4": "3",
+      "5": "2"
+    }
+  ],
+  "caracteristicas": [
+    {
+      "nivel": 1,
+      "nome": "Conjuração",
+      "descricao": "Você estudou a estrutura da magia e como canalizá-la através de objetos arcanos e ferramentas. As informações abaixo detalham como você usa essas regras com as magias de Artífice.\n**Espaços de Magia.** A tabela Características de Artífice mostra quantos espaços de magia você tem para conjurar suas magias de 1º círculo ou superior. Você restaura todos os espaços gastos ao completar um Descanso Longo.\n**Truques (Cantrips).** Você conhece dois truques à sua escolha da lista de magias de Artífice. Você aprende truques adicionais em níveis superiores, conforme indicado na coluna Truques da tabela.\n**Magias Preparadas de 1º Círculo ou Superior.** Você prepara a lista de magias de 1º círculo ou superior que estão disponíveis para você conjurar. O número de magias em sua lista aumenta conforme mostrado na coluna Magias Preparadas da tabela. O número é igual ao seu modificador de Inteligência + metade do seu nível de Artífice (mínimo de 1 magia).\n**Mudando Suas Magias Preparadas.** Sempre que completar um Descanso Longo, você pode substituir uma magia em sua lista por outra magia de Artífice.\n**Atributo de Conjuração.** Inteligência é seu atributo de conjuração para suas magias de Artífice.\n**Foco de Conjuração.** Você deve usar Ferramentas de Ladino, Ferramentas de Funileiro ou qualquer Ferramenta de Artesão na qual seja proficiente como Foco de Conjuração para todas as suas magias de Artífice."
+    },
+    {
+      "nivel": 1,
+      "nome": "Magia de Funileiro",
+      "descricao": "Você aprende o truque *Conserto* (Mending), que não conta no seu limite de truques conhecidos.\nAlém disso, como uma Ação Mágica enquanto segura Ferramentas de Funileiro, você pode criar temporariamente um item mundano da lista a seguir: Abrolhos, Antimônio, Balde, Vela, Corrente, Giz, Pé de Cabra, Anzol, Lampião, Pá, Corda ou Tenda. O item dura 1 hora ou até você usar esta característica novamente. Você pode usá-la um número de vezes igual ao seu modificador de Inteligência (mínimo 1) e recupera todos os usos ao concluir um Descanso Longo."
+    },
+    {
+      "nivel": 2,
+      "nome": "Replicar Item Mágico",
+      "descricao": "Você ganha a habilidade de imbuir objetos comuns com magia temporária usando seus planos arcanos. Você conhece 4 planos da lista de Itens Mágicos Replicáveis. Sempre que atingir certos níveis nesta classe, você aprende planos adicionais, conforme indicado na coluna Planos Conhecidos.\nAo terminar um Descanso Longo, você pode tocar um número de objetos não mágicos igual ao número indicado na coluna Itens Mágicos da tabela de Artífice e transformá-los em cópias temporárias de itens mágicos dos seus planos conhecidos. O item permanece mágico até que você morra ou ultrapasse o seu limite de itens mágicos ativos."
+    },
+    {
+      "nivel": 3,
+      "nome": "Subclasse de Artífice",
+      "descricao": "Você adquire uma subclasse de Artífice à sua escolha. As especializações disponíveis incluem: Alquimista, Armeiro, Artilheiro, Mestre de Batalha e Cartógrafo. Uma subclasse concede características nos níveis 3, 5, 9 e 15."
+    },
+    {
+      "nivel": 4,
+      "nome": "Aumento no Valor de Atributo",
+      "descricao": "Você adquire o talento Aumento no Valor de Atributo ou outro talento à sua escolha para o qual atenda aos pré-requisitos. Você adquire essa característica novamente nos níveis 8, 12 e 16 de Artífice."
+    },
+    {
+      "nivel": 6,
+      "nome": "Remendo Mágico",
+      "descricao": "Você aprende a manipular a magia contida nos seus itens replicados. Você ganha as seguintes opções ao interagir com um item mágico criado pela sua característica Replicar Item Mágico:\n**Carregar Item Mágico.** Como uma Ação Mágica, você pode gastar um espaço de magia para restaurar cargas em um de seus itens replicados que possua cargas.\n**Drenar Item Mágico.** Como uma Ação Bônus, você pode destruir um dos seus itens replicados ativos para recuperar um espaço de magia de 1º ou 2º círculo.\n**Transmutar Item Mágico.** Durante um Descanso Curto, você pode transformar um item replicado ativo em um item diferente que você saiba criar através dos seus planos conhecidos."
+    },
+    {
+      "nivel": 7,
+      "nome": "Gênio do Momento",
+      "descricao": "Você ganha a habilidade de conceber soluções mágicas sob pressão. Quando você ou uma criatura que você possa ver a até 9 metros de você realizar um teste de habilidade ou uma salvaguarda, você pode usar sua Reação para adicionar seu modificador de Inteligência ao resultado da rolagem.\nVocê pode usar esta característica um número de vezes igual ao seu modificador de Inteligência (mínimo de 1) e recupera todos os usos gastos ao completar um Descanso Longo."
+    },
+    {
+      "nivel": 10,
+      "nome": "Especialista em Itens Mágicos",
+      "descricao": "Sua maestria na criação e uso de itens mágicos avança. Você ganha os seguintes benefícios:\n- Você pode se sintonizar com até quatro itens mágicos simultaneamente.\n- A criação de itens mágicos de raridade Comum e Incomum exige metade do tempo e do custo de ouro normais."
+    },
+    {
+      "nivel": 11,
+      "nome": "Armazenar Magia em Item",
+      "descricao": "Ao terminar um Descanso Longo, você pode tocar uma arma simples ou marcial, ou um objeto que possa usar como foco de conjuração, e armazenar nele uma magia de 1º, 2º ou 3º círculo da lista de Artífice que exija uma ação para ser conjurada.\nEnquanto estiver segurando o objeto, uma criatura pode usar uma Ação Mágica para conjurar a magia armazenada a partir dele, usando seu modificador e CD de conjuração. O objeto pode ser usado dessa forma um número de vezes igual ao dobro do seu modificador de Inteligência."
+    },
+    {
+      "nivel": 14,
+      "nome": "Artifício Avançado",
+      "descricao": "Você alcança um nível superior de sincronia com suas criações. Você recebe os seguintes benefícios:\n**Sábio em Itens Mágicos.** Você pode se sintonizar com até cinco itens mágicos simultaneamente.\n**Gênio Renovado.** Você recupera 1 uso de Gênio do Momento ao concluir um Descanso Curto."
+    },
+    {
+      "nivel": 18,
+      "nome": "Mestre em Itens Mágicos",
+      "descricao": "Sua capacidade de se conectar com artefatos e ferramentas mágicas atinge o ápice. Você pode se sintonizar com até seis itens mágicos simultaneamente."
+    },
+    {
+      "nivel": 19,
+      "nome": "Dádiva Épica",
+      "descricao": "Você adquire o talento Dádiva Épica ou outro talento à sua escolha para o qual se qualifica."
+    },
+    {
+      "nivel": 20,
+      "nome": "Alma do Artifício",
+      "descricao": "Sua conexão com seus itens mágicos concede uma proteção vitalicia extraordinária. Você adquire os seguintes recursos:\n**Enganar a Morte.** Se você for reduzido a 0 Pontos de Vida e não for morto instantaneamente, pode usar sua Reação para destruir um de seus itens replicados ativos. Se o fizer, seus Pontos de Vida se tornam iguais a 20 vezes o número de itens desintegrados por este efeito.\n**Orientação Mágica.** Se você estiver sintonizado com pelo menos um item mágico ao terminar um Descanso Curto, você recupera todos os usos gastos da característica Gênio do Momento."
+    }
+  ],
+  "subclasses": [
+    {
+      "nome": "Alquimista",
+      "caracteristicas": [
+        {
+          "nivel": 3,
+          "nome": "Ferramentas do Ofício",
+          "descricao": "Você ganha proficiência com Suprimentos de Alquimista. Se já possuir esta proficiência, ganha proficiência com outro tipo de ferramenta de artesão."
+        },
+        {
+          "nivel": 3,
+          "nome": "Magias de Alquimista",
+          "descricao": "Você sempre tem certas magias preparadas ao atingir os níveis indicados. Elas contam como magias de Artífice para você.\n| **Nível de Artífice** | **Magias** |\n|---|---|\n| 3 | *Mãos Flamejantes, Curar Ferimentos* |\n| 5 | *Esfera Flamejante, Flecha Ácida de Melf* |\n| 9 | *Gás Gasoso, Palavra de Cura Em Massa* |\n| 13 | *Muralha de Fogo, Pele-Rocha* |\n| 17 | *Nuvem Cobre-Tudo, Restauração Maior* |"
+        },
+        {
+          "nivel": 3,
+          "nome": "Elixir Experimental",
+          "descricao": "Ao terminar um Descanso Longo, você produz um elixir experimental em um frasco vago. Role na tabela de Elixires para determinar o efeito. Como uma Ação, uma criatura pode beber o elixir ou administrá-lo a uma criatura incapacitada."
+        },
+        {
+          "nivel": 5,
+          "nome": "Dominio Alquímico",
+          "descricao": "Ao conjurar uma magia que cause dano Ácido, Fogo, Necrótico ou Veneno, ou que restaure Pontos de Vida, adicione seu modificador de Inteligência à rolagem."
+        },
+        {
+          "nivel": 9,
+          "nome": "Restaurativo Infundido",
+          "descricao": "Seus elixires experimentais concedem Pontos de Vida Temporários adicionais e você pode conjurar *Restauração Menor* sem gastar espaço de magia."
+        },
+        {
+          "nivel": 15,
+          "nome": "Mestre de Química",
+          "descricao": "Você ganha resistência a dano de Ácido e Veneno e imunidade à condição Envenenado. Além disso, pode conjurar *Pele-Rocha* e *Restauração Maior* sem gastar espaço de magia."
+        }
+      ]
+    },
+    {
+      "nome": "Armeiro",
+      "caracteristicas": [
+        {
+          "nivel": 3,
+          "nome": "Ferramentas do Ofício",
+          "descricao": "Você ganha proficiência com Ferramentas de Ferreiro e com Armaduras Pesadas."
+        },
+        {
+          "nivel": 3,
+          "nome": "Magias de Armeiro",
+          "descricao": "Você sempre tem certas magias preparadas ao atingir os níveis indicados.\n| **Nível de Artífice** | **Magias** |\n|---|---|\n| 3 | *Míssil Mágico, Escudo da Fé* |\n| 5 | *Passo Nebuloso, Reflexos* |\n| 9 | *Muralha de Vento, Imagem Maior* |\n| 13 | *Moldar Rochas, Invisibilidade Maior* |\n| 17 | *Campo Antimagia, Campo de Força* |"
+        },
+        {
+          "nivel": 3,
+          "nome": "Armadura Arcana",
+          "descricao": "Sua pesquisa permite transformar um traje de armadura em um conduíte para sua magia. A armadura cobre o corpo inteiro, concede benefícios marciais e pode ser ajustada nos modelos **Guardião** ou **Infiltrador**."
+        },
+        {
+          "nivel": 5,
+          "nome": "Ataque Extra",
+          "descricao": "Você pode atacar duas vezes, em vez de uma, sempre que executar a ação Atacar no seu turno."
+        },
+        {
+          "nivel": 9,
+          "nome": "Modificações de Armadura",
+          "descricao": "Sua Armadura Arcana passa a contar como partes separadas para os efeitos da sua característica Replicar Item Mágico (Capacete, Peitoral, Botas e Arma)."
+        },
+        {
+          "nivel": 15,
+          "nome": "Armadura Aperfeiçoada",
+          "descricao": "Sua Armadura Arcana ganha benefícios aprimorados com base no modelo escolhido (Guardião ou Infiltrador)."
+        }
+      ]
+    },
+    {
+      "nome": "Artilheiro",
+      "caracteristicas": [
+        {
+          "nivel": 3,
+          "nome": "Ferramentas do Ofício",
+          "descricao": "Você ganha proficiência com Ferramentas de Entalhador."
+        },
+        {
+          "nivel": 3,
+          "nome": "Magias de Artilheiro",
+          "descricao": "Você sempre tem certas magias preparadas ao atingir os níveis indicados.\n| **Nível de Artífice** | **Magias** |\n|---|---|\n| 3 | *Onda de Choque, Escudo Arcano* |\n| 5 | *Esfera Flamejante, Ray of Enfeeblement* |\n| 9 | *Bola de Fogo, Intermitência* |\n| 13 | *Tempestade Glacial, Muralha de Fogo* |\n| 17 | *Muralha de Força, Névoa Mortal* |"
+        },
+        {
+          "nivel": 3,
+          "nome": "Canhão Eldritch",
+          "descricao": "Como uma Ação Mágica, você usa suas ferramentas para criar um Canhão Eldritch pequeno ou miúdo. O canhão pode ser do tipo *Lança-Chamas*, *Balista de Força* ou *Protetor*."
+        },
+        {
+          "nivel": 5,
+          "nome": "Arma Arcana",
+          "descricao": "Você pode transformar uma varinha, cajado ou cetro em um conduíte mágico. Quando conjurar magias de Artífice através dele, adicione 1d8 ao dano causado."
+        },
+        {
+          "nivel": 9,
+          "nome": "Canhão Explosivo",
+          "descricao": "O dano do seu Canhão Eldritch aumenta em 1d8. Além disso, você pode fazer com que o canhão se autodestrua, causando dano de força em área."
+        },
+        {
+          "nivel": 15,
+          "nome": "Posição Fortificada",
+          "descricao": "Você pode criar dois canhões simultaneamente e seus canhões concedem Meia-Cobertura a aliados próximos."
+        }
+      ]
+    },
+    {
+      "nome": "Mestre de Batalha",
+      "caracteristicas": [
+        {
+          "nivel": 3,
+          "nome": "Ferramentas do Ofício",
+          "descricao": "Você ganha proficiência com Ferramentas de Latoeiro e com Armas Marciais."
+        },
+        {
+          "nivel": 3,
+          "nome": "Magias de Mestre de Batalha",
+          "descricao": "Você sempre tem certas magias preparadas ao atingir os níveis indicados.\n| **Nível de Artífice** | **Magias** |\n|---|---|\n| 3 | *Heroísmo, Soco do Bigby* |\n| 5 | *Vínculo de Proteção, Marca da Punição* |\n| 9 | *Aura de Vitalidade, Dissipar Magia* |\n| 13 | *Aura de Pureza, Pele-Rocha* |\n| 17 | *Banimento, Restauração Maior* |"
+        },
+        {
+          "nivel": 3,
+          "nome": "Defensor de Aço",
+          "descricao": "Seus remendos criam um companheiro mecânico fiel chamado Defensor de Aço, que o auxilia em combate e obedece aos seus comandos."
+        },
+        {
+          "nivel": 5,
+          "nome": "Ataque Extra",
+          "descricao": "Você pode atacar duas vezes, em vez de uma, sempre que executar a ação Atacar no seu turno."
+        },
+        {
+          "nivel": 9,
+          "nome": "Golpe Arcano",
+          "descricao": "Quando atingir um alvo com um ataque de arma ou quando seu Defensor de Aço acertar um ataque, você pode canalizar energia mágica para causar dano de força extra ou curar um aliado."
+        },
+        {
+          "nivel": 15,
+          "nome": "Defensor Aprimorado",
+          "descricao": "Seu Golpe Arcano e seu Defensor de Aço tornam-se mais poderosos, concedendo mais CA e refletindo dano aos atacantes."
+        }
+      ]
+    }
+  ],
+  "lista_magias": {
+    "Truques": [
+      {
+        "nome": "Conserto",
+        "escola": "Transmutação",
+        "especial": "M"
+      },
+      {
+        "nome": "Chama Sagrada",
+        "escola": "Evocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Eletrocussão",
+        "escola": "Evocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Ilusão Menor",
+        "escola": "Ilusão",
+        "especial": "M"
+      },
+      {
+        "nome": "Luz",
+        "escola": "Evocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Mão Mágica",
+        "escola": "Invocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Orientação",
+        "escola": "Adivinhação",
+        "especial": "C"
+      },
+      {
+        "nome": "Prestidigitação",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Pirotecnia Menor",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Raio de Gelo",
+        "escola": "Evocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Remendo Mágico",
+        "escola": "Transmutação",
+        "especial": "M"
+      },
+      {
+        "nome": "Toque Chocante",
+        "escola": "Evocação",
+        "especial": "—"
+      }
+    ],
+    "1º Círculo": [
+      {
+        "nome": "Alarme",
+        "escola": "Abjuração",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Absorver Elementos",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Catapulta",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Curar Ferimentos",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Detectar Magia",
+        "escola": "Adivinhação",
+        "especial": "C, R"
+      },
+      {
+        "nome": "Disfarçar-se",
+        "escola": "Ilusão",
+        "especial": "—"
+      },
+      {
+        "nome": "Escudo Arcano",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Fogo das Fadas",
+        "escola": "Evocação",
+        "especial": "C"
+      },
+      {
+        "nome": "Identificação",
+        "escola": "Adivinhação",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Mãos Hábeis",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Passo Largo",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Purificar Alimentos e Bebidas",
+        "escola": "Transmutação",
+        "especial": "R"
+      },
+      {
+        "nome": "Recuo Acelerado",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Santuário",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Serviçal Invisível",
+        "escola": "Invocação",
+        "especial": "R, M"
+      }
+    ],
+    "2º Círculo": [
+      {
+        "nome": "Alterar-se",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Aprimorar Atributo",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Aumento/Redução",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Arma Mágica",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Boca Encantada",
+        "escola": "Ilusão",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Chama Contínua",
+        "escola": "Evocação",
+        "especial": "M"
+      },
+      {
+        "nome": "Esfera Flamejante",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Invisibilidade",
+        "escola": "Ilusão",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Levitação",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Localizar Objeto",
+        "escola": "Adivinhação",
+        "especial": "C"
+      },
+      {
+        "nome": "Proteção Contra Veneno",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Restauração Menor",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Teia",
+        "escola": "Invocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Tranca Arcana",
+        "escola": "Abjuração",
+        "especial": "M"
+      },
+      {
+        "nome": "Visão no Escuro",
+        "escola": "Transmutação",
+        "especial": "M"
+      }
+    ],
+    "3º Círculo": [
+      {
+        "nome": "Andar na Água",
+        "escola": "Transmutação",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Arma Elemental",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Criar Comida e Água",
+        "escola": "Invocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Dissipar Magia",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Escorregar sem Pegadas",
+        "escola": "Abjuração",
+        "especial": "C"
+      },
+      {
+        "nome": "Forma Gasosa",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Glifo de Vigia",
+        "escola": "Abjuração",
+        "especial": "M"
+      },
+      {
+        "nome": "Intermitência",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Névoa Fétida",
+        "escola": "Invocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Proteção Contra Energia",
+        "escola": "Abjuração",
+        "especial": "C"
+      },
+      {
+        "nome": "Respirar na Água",
+        "escola": "Transmutação",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Revivificar",
+        "escola": "Necromancia",
+        "especial": "M"
+      },
+      {
+        "nome": "Voo",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      }
+    ],
+    "4º Círculo": [
+      {
+        "nome": "Cão Fiel de Mordenkainen",
+        "escola": "Invocação",
+        "especial": "M"
+      },
+      {
+        "nome": "Fabricar",
+        "escola": "Transmutação",
+        "especial": "M"
+      },
+      {
+        "nome": "Invisibilidade Maior",
+        "escola": "Ilusão",
+        "especial": "C"
+      },
+      {
+        "nome": "Moldar Rochas",
+        "escola": "Transmutação",
+        "especial": "M"
+      },
+      {
+        "nome": "Pele-Rocha",
+        "escola": "Abjuração",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Santuário Privativo de Mordenkainen",
+        "escola": "Abjuração",
+        "especial": "M"
+      },
+      {
+        "nome": "Sfera Resiliente de Otiluke",
+        "escola": "Evocação",
+        "especial": "C, M"
+      }
+    ],
+    "5º Círculo": [
+      {
+        "nome": "Animar Objetos",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Criação",
+        "escola": "Ilusão",
+        "especial": "M"
+      },
+      {
+        "nome": "Mão de Bigby",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Muralha de Força",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Muralha de Pedra",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Restauração Maior",
+        "escola": "Abjuração",
+        "especial": "M"
+      },
+      {
+        "nome": "Transmutar Rocha",
+        "escola": "Transmutação",
+        "especial": "M"
+      }
+    ]
+  },
+  "texto_completo": "Artífice\n\nUm Mestre da Magia Aplicada e das Invenções Arcanas\n\n**Traços Básicos de Artífice**\n\n| **Atributo Primário**           | **Inteligência**                                                                                                                                           |\n|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|\n| **Dado de Ponto de Vida**       | D8 por nível de Artífice                                                                                                                                  |\n| **Proficiência em Salvaguarda** | Constituição e Inteligência                                                                                                                               |\n| **Proficiência em Perícias**    | *Escolha 2:* Arcanismo, História, Investigação, Medicina, Natureza, Percepção ou Prestidigitação.                                                         |\n| **Proficiências com Armas**     | Armas Simples                                                                                                                                             |\n| **Proficiências com Ferramentas**| Ferramentas de Ladino, Ferramentas de Funileiro e 1 tipo de Ferramenta de Artesão à sua escolha                                                          |\n| **Treinamento com Armadura**    | Armaduras Leves, Médias e Escudos                                                                                                                         |\n| **Equipamento Inicial**         | *Escolha A ou B:* (A) 2 Armas Simples, Armadura de Couro Batido, Ferramentas de Funileiro, Ferramentas de Ladino, Kit de Explorador e 10 PO; ou (B) 100 PO |\n\nMestres da invenção e do encantamento, os Artífices utilizam a mágica como um sistema de leis lógicas que pode ser compreendido, replicado e aprimorado. Onde outros veem apenas mistérios arcanos insondáveis, os artífices veem engrenagens, runas e conduítes prontos para serem aperfeiçoados.\n\nEles transformam objetos mundanos em protótipos mágicos extraordinários, imbuindo varinhas, armaduras e traquitanas com energias elementares e arcanas.\n\n## Tornando-se um Artífice…\n\nComo um Personagem de Nível 1\n\nAdquira todos os traços da tabela Traços Básicos de Artífice.\n\nAdquira as características de nível 1 de Artífice, apresentadas na tabela Características de Artífice.\n\n## Como um Personagem Multiclasse\n\nVocê adquire as seguintes características da tabela Traços Básicos de Artífice: Dado de Ponto de Vida, proficiência com Ferramentas de Ladino, Ferramentas de Funileiro e treinamento com armaduras Leves, Médias e Escudos.\n\nAdquira as características de nível 1 de Artífice, apresentadas na tabela Características de Artífice. Veja também regras de multiclasse no capítulo 2 para determinar seus espaços de magia disponíveis.\n\n## Características de Artífice\n\n|           |                           |                                                |                       |                       |                       |                       | **Espaços de Magia por Círculo de Magia** |       |       |       |       |\n|-----------|---------------------------|------------------------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------------------------|-------|-------|-------|-------|\n| **Nível** | **Bônus de Proficiência** | **Características**                            | **Planos Conhecidos** | **Itens Mágicos**     | **Truques**           | **Magias Preparadas** | **1**                                     | **2** | **3** | **4** | **5** |\n| 1         | +2                        | Conjuração, Magia de Funileiro                 | —                     | —                     | 2                     | 2                     | 2                                         | —     | —     | —     | —     |\n| 2         | +2                        | Replicar Item Mágico                           | 4                     | 2                     | 2                     | 3                     | 2                                         | —     | —     | —     | —     |\n| 3         | +2                        | Subclasse de Artífice                          | 4                     | 2                     | 2                     | 4                     | 3                                         | —     | —     | —     | —     |\n| 4         | +2                        | Aumento no Valor de Atributo                   | 4                     | 2                     | 2                     | 5                     | 3                                         | —     | —     | —     | —     |\n| 5         | +3                        | Característica de Subclasse                    | 4                     | 2                     | 2                     | 6                     | 4                                         | 2     | —     | —     | —     |\n| 6         | +3                        | Remendo Mágico                                 | 5                     | 3                     | 2                     | 6                     | 4                                         | 2     | —     | —     | —     |\n| 7         | +3                        | Gênio do Momento                               | 5                     | 3                     | 2                     | 7                     | 4                                         | 3     | —     | —     | —     |\n| 8         | +3                        | Aumento no Valor de Atributo                   | 5                     | 3                     | 2                     | 7                     | 4                                         | 3     | —     | —     | —     |\n| 9         | +4                        | Característica de Subclasse                    | 5                     | 3                     | 2                     | 9                     | 4                                         | 3     | 2     | —     | —     |\n| 10        | +4                        | Especialista em Itens Mágicos                  | 6                     | 4                     | 3                     | 9                     | 4                                         | 3     | 2     | —     | —     |\n| 11        | +4                        | Armazenar Magia em Item                        | 6                     | 4                     | 3                     | 10                    | 4                                         | 3     | 3     | —     | —     |\n| 12        | +4                        | Aumento no Valor de Atributo                   | 6                     | 4                     | 3                     | 10                    | 4                                         | 3     | 3     | —     | —     |\n| 13        | +5                        | —                                              | 6                     | 4                     | 3                     | 11                    | 4                                         | 3     | 3     | 1     | —     |\n| 14        | +5                        | Artifício Avançado                             | 7                     | 5                     | 4                     | 11                    | 4                                         | 3     | 3     | 1     | —     |\n| 15        | +5                        | Característica de Subclasse                    | 7                     | 5                     | 4                     | 12                    | 4                                         | 3     | 3     | 2     | —     |\n| 16        | +5                        | Aumento no Valor de Atributo                   | 7                     | 5                     | 4                     | 12                    | 4                                         | 3     | 3     | 2     | —     |\n| 17        | +6                        | —                                              | 7                     | 5                     | 4                     | 14                    | 4                                         | 3     | 3     | 3     | 1     |\n| 18        | +6                        | Mestre em Itens Mágicos                        | 8                     | 6                     | 4                     | 14                    | 4                                         | 3     | 3     | 3     | 1     |\n| 19        | +6                        | Dádiva Épica                                   | 8                     | 6                     | 4                     | 15                    | 4                                         | 3     | 3     | 3     | 2     |\n| 20        | +6                        | Alma do Artifício                              | 8                     | 6                     | 4                     | 15                    | 4                                         | 3     | 3     | 3     | 2     |\n\n## Subclasses de Artífice\n\nUma subclasse de Artífice é uma especialização de engenharia ou alquimia que concede características em certos níveis de Artífice, conforme detalhado na subclasse. Esta seção apresenta as especializações de Alquimista, Armeiro, Artilheiro e Mestre de Batalha."
+}
