@@ -1,0 +1,362 @@
+{
+  "classe": "Artífice",
+  "lista_magias": {
+    "Truques": [
+      {
+        "nome": "Conserto",
+        "escola": "Transmutação",
+        "especial": "M"
+      },
+      {
+        "nome": "Chama Sagrada",
+        "escola": "Evocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Eletrocussão",
+        "escola": "Evocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Ilusão Menor",
+        "escola": "Ilusão",
+        "especial": "M"
+      },
+      {
+        "nome": "Luz",
+        "escola": "Evocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Mão Mágica",
+        "escola": "Invocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Orientação",
+        "escola": "Adivinhação",
+        "especial": "C"
+      },
+      {
+        "nome": "Prestidigitação",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Pirotecnia Menor",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Raio de Gelo",
+        "escola": "Evocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Remendo Mágico",
+        "escola": "Transmutação",
+        "especial": "M"
+      },
+      {
+        "nome": "Toque Chocante",
+        "escola": "Evocação",
+        "especial": "—"
+      }
+    ],
+    "1º Círculo": [
+      {
+        "nome": "Absorver Elementos",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Alarme",
+        "escola": "Abjuração",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Catapulta",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Curar Ferimentos",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Detectar Magia",
+        "escola": "Adivinhação",
+        "especial": "C, R"
+      },
+      {
+        "nome": "Disfarçar-se",
+        "escola": "Ilusão",
+        "especial": "—"
+      },
+      {
+        "nome": "Escudo Arcano",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Fogo das Fadas",
+        "escola": "Evocação",
+        "especial": "C"
+      },
+      {
+        "nome": "Identificação",
+        "escola": "Adivinhação",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Mãos Hábeis",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Passo Largo",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Purificar Alimentos e Bebidas",
+        "escola": "Transmutação",
+        "especial": "R"
+      },
+      {
+        "nome": "Recuo Acelerado",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Santuário",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Serviçal Invisível",
+        "escola": "Invocação",
+        "especial": "R, M"
+      }
+    ],
+    "2º Círculo": [
+      {
+        "nome": "Alterar-se",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Aprimorar Atributo",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Arma Mágica",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Aumento/Redução",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Boca Encantada",
+        "escola": "Ilusão",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Chama Contínua",
+        "escola": "Evocação",
+        "especial": "M"
+      },
+      {
+        "nome": "Esfera Flamejante",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Invisibilidade",
+        "escola": "Ilusão",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Levitação",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Localizar Objeto",
+        "escola": "Adivinhação",
+        "especial": "C"
+      },
+      {
+        "nome": "Proteção Contra Veneno",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Restauração Menor",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Teia",
+        "escola": "Invocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Tranca Arcana",
+        "escola": "Abjuração",
+        "especial": "M"
+      },
+      {
+        "nome": "Visão no Escuro",
+        "escola": "Transmutação",
+        "especial": "M"
+      }
+    ],
+    "3º Círculo": [
+      {
+        "nome": "Andar na Água",
+        "escola": "Transmutação",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Arma Elemental",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Criar Comida e Água",
+        "escola": "Invocação",
+        "especial": "—"
+      },
+      {
+        "nome": "Dissipar Magia",
+        "escola": "Abjuração",
+        "especial": "—"
+      },
+      {
+        "nome": "Escorregar sem Pegadas",
+        "escola": "Abjuração",
+        "especial": "C"
+      },
+      {
+        "nome": "Forma Gasosa",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Glifo de Vigia",
+        "escola": "Abjuração",
+        "especial": "M"
+      },
+      {
+        "nome": "Intermitência",
+        "escola": "Transmutação",
+        "especial": "—"
+      },
+      {
+        "nome": "Névoa Fétida",
+        "escola": "Invocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Proteção Contra Energia",
+        "escola": "Abjuração",
+        "especial": "C"
+      },
+      {
+        "nome": "Respirar na Água",
+        "escola": "Transmutação",
+        "especial": "R, M"
+      },
+      {
+        "nome": "Revivificar",
+        "escola": "Necromancia",
+        "especial": "M"
+      },
+      {
+        "nome": "Voo",
+        "escola": "Transmutação",
+        "especial": "C, M"
+      }
+    ],
+    "4º Círculo": [
+      {
+        "nome": "Cão Fiel de Mordenkainen",
+        "escola": "Invocação",
+        "especial": "M"
+      },
+      {
+        "nome": "Esfera Resiliente de Otiluke",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Fabricar",
+        "escola": "Transmutação",
+        "especial": "M"
+      },
+      {
+        "nome": "Invisibilidade Maior",
+        "escola": "Ilusão",
+        "especial": "C"
+      },
+      {
+        "nome": "Moldar Rochas",
+        "escola": "Transmutação",
+        "especial": "M"
+      },
+      {
+        "nome": "Pele-Rocha",
+        "escola": "Abjuração",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Santuário Privativo de Mordenkainen",
+        "escola": "Abjuração",
+        "especial": "M"
+      }
+    ],
+    "5º Círculo": [
+      {
+        "nome": "Animar Objetos",
+        "escola": "Transmutação",
+        "especial": "C"
+      },
+      {
+        "nome": "Criação",
+        "escola": "Ilusão",
+        "especial": "M"
+      },
+      {
+        "nome": "Mão de Bigby",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Muralha de Força",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Muralha de Pedra",
+        "escola": "Evocação",
+        "especial": "C, M"
+      },
+      {
+        "nome": "Restauração Maior",
+        "escola": "Abjuração",
+        "especial": "M"
+      },
+      {
+        "nome": "Transmutar Rocha",
+        "escola": "Transmutação",
+        "especial": "M"
+      }
+    ]
+  }
+}
