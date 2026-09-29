@@ -287,6 +287,25 @@ export const CLASSES_INFO = {
     proficiencias_multiclasse: {
       armaduras: ["Leve", "Média", "Escudo"], armas: ["Marcial"], pericias: 0,
       ferramentas: [], instrumentos: 0, salvaguardas: [],
+    }, 
+  },
+      Artífice": {
+    dado_vida: 8,
+    atributo_primario: "Inteligência",
+    atributos_primarios: { lista: ["Inteligência"], conector: "ou" },
+    salvaguardas: ["Constituição", "Inteligência"],
+    armaduras: ["Leve", "Média", "Escudo"],
+    armas: ["Simples"],
+    pericias_opcoes: ["Arcanismo", "História", "Investigação", "Medicina", "Natureza", "Percepção", "Prestidigitação"],
+    num_pericias: 2,
+    conjurador: true,
+    atributo_conjuracao: "Inteligência",
+    tipo_conjuracao: "preparadas",
+    // Meio conjurador que arredonda para cima desde o nível 1
+    categoria_conjuracao: "meia",
+    proficiencias_multiclasse: {
+      armaduras: ["Leve", "Média", "Escudo"], armas: [], pericias: 0,
+      ferramentas: ["Ferramentas de Ladrão", "Ferramentas de Funileiro"], instrumentos: 0, salvaguardas: []
     },
   }
 };
